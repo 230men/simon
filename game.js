@@ -40,7 +40,7 @@ function checkAnswer(currentLevel) {
     console.log("wrong");
     var wrong = new Audio("sounds/wrong.mp3");
     wrong.play();
-    $("#level-title").text("Game Over Your Score Was " + level + ", Press Any Key To Restart");
+    $("#level-title").text("WTF POKER IS FUCKING GOD AT THIS- EVERY GAME!");
     
     $("body").addClass("game-over");
     
